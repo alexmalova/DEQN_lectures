@@ -65,9 +65,9 @@ This is a 3-day Ph.D. course on the application of deep neural networks as a glo
 
  **Time** | **Main Topics** 
 ------|------
-09:00 - 10:20 | [Introduction to Machine Learning and Deep Learning (part I)](lectures/day1/slides/01_Intro_to_DeepLearning.pdf) 
+09:00 - 10:20 | Hands-on debugging session, Q&A, part I
 10:20 - 10:40 | Coffee Break
-10:40 - 12:00 | [Introduction to Machine Learning and Deep Learning (part II)](lectures/day1/slides/01_Intro_to_DeepLearning.pdf) 
+10:40 - 12:00 | Hands-on debugging session, Q&A, Part II
 
 
 ### Teaching philosophy
