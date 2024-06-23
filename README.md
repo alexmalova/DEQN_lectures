@@ -41,25 +41,25 @@ This is a 3-day Ph.D. course on the application of deep neural networks as a glo
 
  **Time** | **Main Topics** 
 ------|------
-09:00 - 10:20 | [Introduction to Machine Learning and Deep Learning (part I)](lectures/day1/slides/01_Intro_to_DeepLearning.pdf) 
-10:20 - 10:40 | Coffee Break
-10:40 - 12:00 | [Introduction to Machine Learning and Deep Learning (part II)](lectures/day1/slides/01_Intro_to_DeepLearning.pdf) 
+09:00 - 10:00 | [Introduction to Machine Learning and Deep Learning](Day1/Slides/DEQN_lecture_1.pdf) 
+10:00 - 11:00 | Practical Session on SGD
+11:00 - 12:00 | [Training the Neural Net](Day1/Slides/DEQN_lecture_2.pdf) 
 12:00 - 13:30 | Lunch Break 
-13:30 - 14:50 | [A hands-on session on Deep Learning, Tensorflow, and Tensorboard](lectures/day1/code) 
-14:50 - 15:10 | Coffee Break
-15:10 - 16:30 | [A hands-on session on Deep Learning, Tensorflow, and Tensorboard](lectures/day1/code) 
+13:30 - 14:30 | Practical Session on DNN 
+14:30 - 15:30 | [DEQN](Day1/Slides/DEQN_lecture_3.pdf) 
+15:30 - 16:30 | Practical Session on DEQN
 
 ### [Day 2](lectures/day2), Wednesday, June 26th, 2024 
 
  **Time** | **Main Topics** 
 ------|------
-09:00 - 10:20 | [Introduction to Machine Learning and Deep Learning (part I)](lectures/day1/slides/01_Intro_to_DeepLearning.pdf) 
-10:20 - 10:40 | Coffee Break
-10:40 - 12:00 | [Introduction to Machine Learning and Deep Learning (part II)](lectures/day1/slides/01_Intro_to_DeepLearning.pdf) 
+09:00 - 10:00 | [Stochastic problems](Day2/Slides/DEQN_lecture_4.pdf) 
+10:00 - 11:00 | Practical Session on DEQN, stochastic
+11:00 - 12:00 | Intorduction to DEQN software 
 12:00 - 13:30 | Lunch Break 
-13:30 - 14:50 | [A hands-on session on Deep Learning, Tensorflow, and Tensorboard](lectures/day1/code) 
-14:50 - 15:10 | Coffee Break
-15:10 - 16:30 | [A hands-on session on Deep Learning, Tensorflow, and Tensorboard](lectures/day1/code) 
+13:30 - 14:30 | Practical Session on DEQN software, Brock-Mirman 1972
+14:30 - 15:30 | Practical Session on DEQN software, Ramsey model
+15:30 - 16:30 | Practical Session on DEQN software, stochastic Ramsey model
 
 ### [Day 3](lectures/day3), Thursday, August 8th, 2024 
 
