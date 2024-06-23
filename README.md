@@ -1,4 +1,4 @@
-# Deep Equilibrium Nets for Solving Dynamic Stochastic Models (June 25 – 25, August 8, 2024)
+# Deep Equilibrium Nets for Solving Dynamic Stochastic Models (June 25 – 26, August 8, 2024)
 
 This is a 3-day Ph.D. course on the application of deep neural networks as a global solution method, held at the University of Lugano during the summer break of 2024 (25.06-
 26.06.2024, 08.08.2024)
